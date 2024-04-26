@@ -2,4 +2,4 @@
 
 Hello, world.
 
-Let's see what's GitHub is.
+Let's see what GitHub is.
